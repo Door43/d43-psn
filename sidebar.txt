@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psn:home|Door43 (psn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psn|d43-psn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psn/archive/master.zip|d43-psn.zip]]
+
+**Recent Changes**
+{{changes>ns = psn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psn|Ethnologue data]]
+
